@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @treasure3210
-- 👀 I’m interested in creating an App Development.
+- 👀 I’m interested in App Development.
 - 🌱 I’m currently learning Flutter/Dart/Swift.
 - 💞️ I’m looking to collaborate on pretty much anything that will help me gain knowledge!
 - 📫 How to reach me treasure3210@gmail.com
