@@ -1,10 +1,10 @@
 ![Header](./github-header-image.png)
 
 - 👋 Hi, I’m Noobietubie!
-- 👀 I’m interested in Mobile App Development.
-- 🌱 I’m currently learning Flutter/Dart/Swift(UIKit)/SwiftUI.
-- 💞️ I’m looking to collaborate on pretty much anything that will help me gain knowledge!
-- 📫 How to reach me treasure3210@gmail.com
+- 👀 I am a Mobile App Developer.
+- 🌱 I specialize in Flutter/Dart/Swift(UIKit)/SwiftUI.
+- 💞️ I’m looking for employment as a Junior iOS or Flutter Developer!
+- 📫 How to reach me: treasure3210@gmail.com
 
 <!---
 treasure3210/treasure3210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
