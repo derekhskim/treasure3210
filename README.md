@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/noobietubie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noobietubie" height="30" width="40" /></a>
 <a href="https://medium.com/@treasure3210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@treasure3210" height="30" width="40" /></a>
+<a href="https://noobietubie.ca" target="blank"><img align="center" src="https://noobietubie.ca/static/media/logo-s.75533f9ed06058f0265b.png" alt="@treasure3210" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
