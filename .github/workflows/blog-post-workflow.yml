@@ -2,7 +2,7 @@ name: Latest Blog on Medium
 on:
   schedule:
     # Runs every hour
-    - cron: '0 18 * * *'
+    - cron: '0 * * * *'
 jobs:
   update-readme-with-blog:
     name: Latest Blog on Medium
