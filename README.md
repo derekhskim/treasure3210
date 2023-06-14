@@ -4,7 +4,7 @@
 - 👀 I am a Mobile App Developer.
 - 🌱 I specialize in Flutter/Dart/Swift(UIKit)/SwiftUI.
 - 💞️ I’m looking for employment as an iOS or Flutter Developer!
-- 📫 How to reach me: treasure3210@gmail.com
+- 📫 How to reach me: dk@derek.kim
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=treasure3210&" alt="treasure3210" /></p>
 
